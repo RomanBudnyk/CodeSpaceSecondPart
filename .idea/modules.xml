@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeSpaceSecondPart.iml" filepath="$PROJECT_DIR$/CodeSpaceSecondPart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_1/PracticalWorkB2_1.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_1/PracticalWorkB2_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_10/PracticalWorkB2_10.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_10/PracticalWorkB2_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_11/PracticalWorkB2_11.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_11/PracticalWorkB2_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_12/PracticalWorkB2_12.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_12/PracticalWorkB2_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_2/PracticalWorkB2_2.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_2/PracticalWorkB2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_3/PracticalWorkB2_3.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_3/PracticalWorkB2_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_4/PracticalWorkB2_4.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_4/PracticalWorkB2_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_5/PracticalWorkB2_5.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_5/PracticalWorkB2_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_6/PracticalWorkB2_6.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_6/PracticalWorkB2_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_7/PracticalWorkB2_7.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_7/PracticalWorkB2_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_8/PracticalWorkB2_8.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_8/PracticalWorkB2_8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB2_9/PracticalWorkB2_9.iml" filepath="$PROJECT_DIR$/PracticalWorkB2_9/PracticalWorkB2_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB3_1/PracticalWorkB3_1.iml" filepath="$PROJECT_DIR$/PracticalWorkB3_1/PracticalWorkB3_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB3_2/PracticalWorkB3_2.iml" filepath="$PROJECT_DIR$/PracticalWorkB3_2/PracticalWorkB3_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB3_3/PracticalWorkB3_3.iml" filepath="$PROJECT_DIR$/PracticalWorkB3_3/PracticalWorkB3_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticalWorkB3_4/PracticalWorkB3_4.iml" filepath="$PROJECT_DIR$/PracticalWorkB3_4/PracticalWorkB3_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tasktest/tasktest.iml" filepath="$PROJECT_DIR$/tasktest/tasktest.iml" />
+    </modules>
+  </component>
+</project>
